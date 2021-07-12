@@ -1,0 +1,10 @@
+﻿  Main.cpp
+c:\users\han.glschool\documents\phuong_inter summer 2021\test repo browser\frameworkc++\source\main.cpp(103): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\han.glschool\documents\phuong_inter summer 2021\test repo browser\frameworkc++\source\main.cpp(105): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\han.glschool\documents\phuong_inter summer 2021\test repo browser\frameworkc++\source\main.cpp(110): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\han.glschool\documents\phuong_inter summer 2021\test repo browser\frameworkc++\source\main.cpp(112): warning C4390: ';': empty controlled statement found; is this the intent?
+  Object.cpp
+c:\users\han.glschool\documents\phuong_inter summer 2021\test repo browser\frameworkc++\object.cpp(38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Framework.vcxproj -> C:\Users\han.glschool\Documents\Phuong_Inter Summer 2021\test repo browser\FrameworkC++\BIN\Framework.exe
+  Framework.vcxproj -> BIN\Framework.pdb (Full PDB)
